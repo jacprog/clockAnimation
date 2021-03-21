@@ -6,5 +6,14 @@ Well Yes, here it is
 
 https://youtu.be/4a_QpYZxfCw
 
+I included th eFreeCAD files as well as the Python code Macro if you want to give it a go
+They are plenty of comment in code to folow the idea
+Open the file in freeCAD 0,19
+Go to the Assembly 4 workbench, ( tools, addon if you don' have it)
+load the Python file as a macro
+open the the Python console , copy and paste the file, press Enter, That is it!
+please comment at :
+https://forum.freecadweb.org/viewtopic.php?f=24&t=56869
 
+Enjoy!
 
