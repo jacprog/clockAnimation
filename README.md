@@ -12,7 +12,7 @@ Open the file in freeCAD 0,19
 Go to the Assembly 4 workbench, ( tools, addon if you don't have it)
 load the Python file as a macro
 open the the Python console, copy and paste the file, press Enter, That is it!
-please comment at :
+See more details and or comment at :
 https://forum.freecadweb.org/viewtopic.php?f=24&t=56869
 
 Enjoy!
