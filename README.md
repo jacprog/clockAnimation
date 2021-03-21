@@ -2,6 +2,7 @@
 escapement animation with FreeCAD, assembly4, Python
 
 I designed a 3D printed clock and was wondering If I would be able to animate the escapment with FreeCAD
+
 https://github.com/jacprog/clockAnimation/blob/main/IMG_2535.gif
 
 Well Yes, here it is
